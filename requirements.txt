@@ -7,4 +7,4 @@ pyyaml
 matplotlib
 dvc
 prefect
-fastapi<0.155
+fastapi<0.151
