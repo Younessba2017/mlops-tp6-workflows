@@ -6,3 +6,5 @@ joblib
 pyyaml
 matplotlib
 dvc
+prefect
+fastapi<0.155
